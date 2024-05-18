@@ -25,11 +25,10 @@
 ---
 
 <a href="https://github.com/gooli6011">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gooli6011" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gooli6011&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gooli6011" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gooli6011&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/gooli6011">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gooli6011&layout=compact&hide=html,css&size_weight=0.5&count_weight=0.5" />
-</a>
+<br>
+<br>
 
 [![Goli's github trophy](https://github-profile-trophy.vercel.app/?username=gooli6011&row=1)](https://github.com/gooli6011)
