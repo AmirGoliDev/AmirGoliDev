@@ -1,8 +1,13 @@
 <a href="https://github.com/gooli6011" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/gooli6011" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://t.me/gooli6011" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 
 <h1 align="center"> Hi 👋 I'm Amir Mahdi Golmakani</h1>
@@ -26,9 +31,12 @@
 
 <a href="https://github.com/gooli6011">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gooli6011" />
+  <br>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gooli6011&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 <br>
 <br>
-
-[![Goli's github trophy](https://github-profile-trophy.vercel.app/?username=gooli6011&row=1)](https://github.com/gooli6011)
+<a href="https://github.com/gooli6011">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=gooli6011&row=1" />
+</a>
