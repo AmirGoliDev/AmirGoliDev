@@ -5,22 +5,9 @@
 </p>
 
 ---
-|Trust Wallet|Address|
-|-|-|
-|<a href="https://link.trustwallet.com/send?coin=0&address=bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a">Bitcoin</a>|bc1qzs4kt4aeqym6gsde669g5rksv4swjhzjqqp23a|
-|<a href="https://link.trustwallet.com/send?coin=60&address=0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C">ETH</a>|0x40Db4476c1D498b167f76A2c7ED9D45b65eb5d0C|
 
----
+[<img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">](https://www.adobe.com/products/laravel.html)
 
-> [!TIP]
-> You can find My apps in the Microsoft Store
-<a href="https://apps.microsoft.com/search/publisher?name=Mahdi+Hosseini&hl=en-us&gl=PL">
-  <img align="center" src="https://get.microsoft.com/images/en-us%20dark.svg" width="250" />
-</a>
-
----
-
-[<img src="https://user-images.githubusercontent.com/9213496/100453274-f6af9e00-30cf-11eb-9007-d7264c399f8f.png" alt="alt text" width="48" height="48">](https://www.adobe.com/products/photoshop.html) 
 [<img src="https://user-images.githubusercontent.com/9213496/100454663-9a9a4900-30d2-11eb-8e49-8949f91033f2.png" alt="alt text" width="48" height="48">](https://developer.android.com/studio)
 [<img src="https://user-images.githubusercontent.com/9213496/100453281-f8796180-30cf-11eb-8713-5d46659acf9a.png" alt="alt text" width="48" height="48">](https://azure.microsoft.com/en-us/)
 [<img src="https://user-images.githubusercontent.com/9213496/100454668-9c640c80-30d2-11eb-8a65-40433fdf733a.png" alt="alt text" width="48" height="48">](https://cakebuild.net/)
@@ -53,7 +40,7 @@
 
 ---
 
-[![Mahdi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ghost1372)](https://github.com/ghost1372)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooli6011)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/ghost1372">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" />
