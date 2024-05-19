@@ -13,27 +13,27 @@
 <div align="center">
   <a href="https://github.com/gooli6011">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="composer logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-    <img width="15" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jquery logo"  />
   </a>
 </div>
