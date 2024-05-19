@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋 I'm Amir Mahdi Golmakani</h1>
-<h3 align="center">🔥🚀 <b>I’m Developing Web with Laravel</b> 🚀🔥</h3>
+<div align="center">
+
+  # Hi 👋 I'm Amir Mahdi Golmakani
+  ## 🔥🚀 I’m Developing Web with Laravel 🚀🔥
+</div>
 
 # 🌐 Socials
 <div align="center">
