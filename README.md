@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:)
+[![Gmail](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](mailto:gooli6011@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gooli6011)
 [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white)](https://t.me/gooli6011)
 
