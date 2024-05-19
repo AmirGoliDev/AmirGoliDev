@@ -41,8 +41,8 @@
 ###
 
 # 📊 GitHub Stats
-[![](https://github-readme-stats.vercel.app/api?username=gooli6011&theme=dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/gooli6011)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gooli6011&theme=dark&hide_border=false)](https://github.com/gooli6011)
+[![](https://github-readme-stats.vercel.app/api?username=gooli6011&theme=dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/gooli6011)
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=gooli6011&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/gooli6011)
