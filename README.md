@@ -63,7 +63,7 @@
   <img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/gooli6011/gooli6011/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/amirgoli6011/amirgoli6011/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 
