@@ -60,6 +60,7 @@
 
   [<img src='https://quotes-github-readme.vercel.app/api?theme=nord&border=true&quote=Keep+it+simple,+stupid!&author=Kelly+Johnson' style="height:300px"/>](https://github.com/amirgoli6011)
   [<img src='https://codermemes.vercel.app' style="height:300px;"/>](https://github.com/amirgoli6011)
+  <img src='https://codermemes.vercel.app/' style="height: 400px;"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/gooli6011/gooli6011/output/snake.svg" alt="Snake animation" />
