@@ -15,23 +15,23 @@
       width="80" height="60" alt="amirgoli6011@gmail.com"/>
   </a>]()
 
-  <a href="https://t.me/amirgoli6011" target="_blank">
+  [<a href="https://t.me/amirgoli6011" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
       width="80" height="60" alt="amirgoli6011"/>
-  </a>
+  </a>]()
 
-  <a href="https://www.instagram.com/amirgoli6011" target="_blank">
+  [<a href="https://www.instagram.com/amirgoli6011" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
       width="80" height="60" alt="amirgoli6011"/>
-  </a>
+  </a>]()
 
-  <a href="https://linkedin.com/in/amirgoli6011" target="_blank">
+  [<a href="https://linkedin.com/in/amirgoli6011" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="80" height="60" alt="amirgoli6011"/>
-  </a>
+  </a>]()
 
 </div>
 
