@@ -7,10 +7,10 @@
  # 🌐 Socials
  <div align="center">
  
- [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="60" alt="amirgoli6011@gmail.com"/>](mailto:amirgoli6011@gmail.com)
- [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="80" height="60" alt="amirgoli6011"/>](https://t.me/amirgoli6011)
- [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="60" alt="amirgoli6011"/>](https://www.instagram.com/amirgoli6011)
- [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="amirgoli6011"/>](https://linkedin.com/in/amirgoli6011)
+ [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="60" alt="amirgolidev@gmail.com"/>](mailto:amirgolidev@gmail.com)
+ [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="80" height="60" alt="amirgolidev"/>](https://t.me/amirgolidev)
+ [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="60" alt="amirgolidev"/>](https://www.instagram.com/amirgolidev)
+ [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="amirgolidev"/>](https://linkedin.com/in/amirgolidev)
  </div>
  
  # 💻 Tech Stack
@@ -33,24 +33,24 @@
  # 📊 GitHub Stats
  <div align="center">
  
- [![](https://github-readme-streak-stats.herokuapp.com/?user=amirgoli6011&theme=dark&hide_border=false)](https://github.com/amirgoli6011)
- [![](https://github-readme-stats.vercel.app/api?username=amirgoli6011&theme=dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/amirgoli6011)
+ [![](https://github-readme-streak-stats.herokuapp.com/?user=amirgolidev&theme=dark&hide_border=false)](https://github.com/amirgolidev)
+ [![](https://github-readme-stats.vercel.app/api?username=amirgolidev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/amirgolidev)
  </div>
  
  ## 🏆 GitHub Trophies
  <div align="center">
  
- [![](https://github-profile-trophy.vercel.app/?username=amirgoli6011&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/amirgoli6011)
+ [![](https://github-profile-trophy.vercel.app/?username=amirgolidev&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/amirgolidev)
  </div>
  
  ## ✍️ Dev Quote
  
  <div align="center">
  
- [<img src='https://quotes-github-readme.vercel.app/api?theme=nord&border=true&quote=Keep+it+simple,+stupid!&author=Kelly+Johnson' style="height:300px"/>](https://github.com/amirgoli6011)
+ [<img src='https://quotes-github-readme.vercel.app/api?theme=nord&border=true&quote=Keep+it+simple,+stupid!&author=Kelly+Johnson' style="height:300px"/>](https://github.com/amirgolidev)
  </div>
  
  <div align="center">
  
  ### 👁️ Profile Views
- [<img src="https://profile-counter.glitch.me/amirgoli6011/count.svg?" alt="Profile Views">](https://github.com/amirgoli6011)
+ [<img src="https://profile-counter.glitch.me/amirgolidev/count.svg?" alt="Profile Views">](https://github.com/amirgolidev)
