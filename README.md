@@ -31,11 +31,8 @@
  </div>
  
  # 📊 GitHub Stats
- <div align="center">
- 
  [![](https://github-readme-streak-stats.herokuapp.com/?user=amirgolidev&theme=dark&hide_border=false)](https://github.com/amirgolidev)
  [![](https://github-readme-stats.vercel.app/api?username=amirgolidev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)](https://github.com/amirgolidev)
- </div>
  
  ## 🏆 GitHub Trophies
  <div align="center">
