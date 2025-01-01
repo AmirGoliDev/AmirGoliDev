@@ -42,15 +42,3 @@
  
  [![](https://github-profile-trophy.vercel.app/?username=amirgolidev&theme=dark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/amirgolidev)
  </div>
- 
- ## ✍️ Dev Quote
- 
- <div align="center">
- 
- [<img src='https://quotes-github-readme.vercel.app/api?theme=nord&border=true&quote=Keep+it+simple,+stupid!&author=Kelly+Johnson' style="height:300px"/>](https://github.com/amirgolidev)
- </div>
- 
- <div align="center">
- 
- ### 👁️ Profile Views
- [<img src="https://profile-counter.glitch.me/amirgolidev/count.svg?" alt="Profile Views">](https://github.com/amirgolidev)
